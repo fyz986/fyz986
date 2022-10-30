@@ -4,3 +4,14 @@ git push -u origin master
 fatal: unable to access 'https://github.com/fyz986/fyz986.git/': OpenSSL SSL_read: Connection was reset, errno 10054
 
 
+心有山川湖海,
+马行千里,不洗尘沙,
+十年饮冰,难凉热血，
+已识乾坤大,犹怜草木深,
+过往皆序章,未来皆可盼，
+唯有更勤勉，方可不负望，
+所以啊，不管怎么样，
+心里的火永远不要灭，
+哪怕别人只能看得到烟，
+所以请保持你心里的光，
+因为你不知道谁会借此走出黑暗。
