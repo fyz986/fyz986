@@ -1,1 +1,6 @@
 发展
+
+git push -u origin master
+fatal: unable to access 'https://github.com/fyz986/fyz986.git/': OpenSSL SSL_read: Connection was reset, errno 10054
+
+
